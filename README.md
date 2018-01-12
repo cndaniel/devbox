@@ -1,4 +1,4 @@
-Laptop
+VPS
 ======
 
 Laptop is a script to set up an macOS / linux laptop for web and mobile development.
@@ -28,7 +28,7 @@ Download the appropiate script:
 
 ```sh
 curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/mac
-curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/linux
+curl --remote-name https://raw.githubusercontent.com/cndaniel/devbox/master/mac
 ```
 
 Review the script (avoid running scripts you haven't read!):
